@@ -1,3 +1,3 @@
 # gitdemo
-this is a git demo
+this is a git demo, i changed it
 i learning git again...
